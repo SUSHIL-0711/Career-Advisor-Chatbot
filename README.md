@@ -17,7 +17,7 @@ A specialized Career Advisor Chatbot built with Generative AI that provides bala
 <summary>Click to view screenshots</summary>
 
 ### Main Interface
-![Main Interface](https://github.com/yourusername/career-advisor-chatbot/raw/main/images/main_interface.png)
+![Main Interface](Images/main_interface.png)
 
 ### Response Display
 ![Response Display](https://github.com/yourusername/career-advisor-chatbot/raw/main/images/response_display.png)
