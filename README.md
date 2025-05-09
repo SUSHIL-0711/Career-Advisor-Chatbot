@@ -23,7 +23,7 @@ A specialized Career Advisor Chatbot built with Generative AI that provides bala
 ![Response Display](Images/response_display.png)
 
 ### Mobile View
-![Mobile View](https://github.com/yourusername/career-advisor-chatbot/raw/main/images/mobile_view.png)
+![Mobile View](Images/mobile_view.png)
 
 ### Processing State
 ![Processing State](https://github.com/yourusername/career-advisor-chatbot/raw/main/images/processing_state.png)
