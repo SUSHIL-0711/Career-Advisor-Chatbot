@@ -66,7 +66,7 @@ The Career Advisor Chatbot consists of three main components:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/career-advisor-chatbot.git
+git clone [https://github.com/SUSHIL-0711/Career-Advisor-Chatbot.git]
 cd career-advisor-chatbot
 ```
 
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 3. Download the fine-tuned model:
 
 ## 📂 Download Model
-Download the 125M model manually: [Google Drive Link](https://drive.google.com/your-file-link)
+Download the 125M model manually: [Google Drive Link](https://drive.google.com/drive/folders/1ZEGH_4UeJ7ufNe0thDtJl4UkyiIgELYY?usp=sharing)
 
 Extract the model files to a directory named `career_GPT_advisor_chatbot_125m_model` in the project root.
 
