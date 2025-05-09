@@ -1,6 +1,6 @@
 # Career Advisor Chatbot using Generative AI
 
-![Career Advisor Banner](Images/career Orbit AI -.png)
+![Career Advisor Banner](Images/career_Orbit_AI.png)
 
 A specialized Career Advisor Chatbot built with Generative AI that provides balanced insights on different career paths, highlighting both opportunities and challenges to help users make informed career decisions.
 
